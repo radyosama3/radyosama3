@@ -15,7 +15,9 @@
 </p>
 
 - 🏢 I'm a Software Engineer . <br/>
-- 👨‍💻 As a CS student, I'm learning and exploring new technologies to improve my skills. <br/>
+- 👨‍💻 As a computer science student at level four , I'm learning and exploring new technologies to improve my skills. <br/>
+- 👨‍💻 trining at NTI (CCNA) , <br/>
+- 👨‍💻 trining at ITI (full stack using php with framwork laravel ), <br/>
 - 💬 Ask me about my experience with php, laravel, mySQl anything related to web development and laravel technologies. <br/>
 - 📧 Reach me anytime: radyosama200@gmail.com <br/><br/><br/>
 
