@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Eslam Abdelaziz's profile!
+  Welcome to rady osama's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,21 +14,20 @@
   <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
 </p>
 
-- 🏢 I'm a Software Engineer at information technology institute. <br/>
+- 🏢 I'm a Software Engineer . <br/>
 - 👨‍💻 As a CS student, I'm learning and exploring new technologies to improve my skills. <br/>
-- 💬 Ask me about my experience with JavaScript, Angular, MS SQl server and ASP.NET, or anything related to web development and .NET technologies. <br/>
-- 👨‍💻 Check out my portfolio at https://eslam-abdelaziz.netlify.app/ to see some of the projects I've worked on. <br/>
-- 📧 Reach me anytime: eslam.abdelaziz.momeh@gmail.com <br/><br/><br/>
+- 💬 Ask me about my experience with php, laravel, mySQl anything related to web development and laravel technologies. <br/>
+- 📧 Reach me anytime: radyosama200@gmail.com <br/><br/><br/>
 
 ### Connect with me :
 <p>
- <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
+ <a href="https://www.linkedin.com/in/rady-osama/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
  </a>
-  <a href="https://www.facebook.com/el.fohlr/" target="_blank">
+  <a href="[https://www.facebook.com/el.fohlr/](https://www.facebook.com/rady.mhamed.5/)" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-0077B5?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
  </a> 
- <a href="https://t.me/islam_momeh" target="_blank">
+ <a href="https://t.me/radyosama" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
  </a> 
 </p>
