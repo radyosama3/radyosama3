@@ -14,15 +14,15 @@
   <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
 </p>
 
-🏢 I'm a Computer Science graduate from Modern Academy.
-👨‍💻 Passionate about backend development and continuously learning new technologies.
-👨‍💻 Trained at ITI in full-stack development, specializing in PHP, Laravel, MySQL, HTML, CSS, and JavaScript.
-🏆 Earned a diploma in Backend Development (PHP & Laravel) from Route IT Training Center, focusing on creating scalable and efficient applications.
-💻 Developed notable projects, including a distinguished Learning Management System (LMS) and an e-commerce platform.
-🔧 Skilled in advanced Laravel features like Eloquent ORM, middleware, authentication, and authorization.
-💬 Ask me about PHP, Laravel, MySQL, and anything related to web development and backend technologies.
-📧 Reach me anytime: radyosama200@gmail.com
-🐙 Explore my work on GitHub: GitHub Profile
+🏢 I'm a Computer Science graduate from Modern Academy.<br>
+👨‍💻 Passionate about backend development and continuously learning new technologies.<br>
+👨‍💻 Trained at ITI in full-stack development, specializing in PHP, Laravel, MySQL, HTML, CSS, and JavaScript.<br>
+🏆 Earned a diploma in Backend Development (PHP & Laravel) from Route IT Training Center, focusing on creating scalable and efficient applications.<br>
+💻 Developed notable projects, including a distinguished Learning Management System (LMS) and an e-commerce platform.<br>
+🔧 Skilled in advanced Laravel features like Eloquent ORM, middleware, authentication, and authorization.<br>
+💬 Ask me about PHP, Laravel, MySQL, and anything related to web development and backend technologies.<br>
+📧 Reach me anytime: radyosama200@gmail.com<br>
+🐙 Explore my work on GitHub: GitHub Profile<br>
 
 ### Connect with me :
 <p>
