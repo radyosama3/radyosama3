@@ -14,12 +14,15 @@
   <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
 </p>
 
-- 🏢 I'm a Software Engineer . <br/>
-- 👨‍💻 As a computer science student at level four , I'm learning and exploring new technologies to improve my skills. <br/>
-- 👨‍💻 trining at NTI (CCNA) , <br/>
-- 👨‍💻 trining at ITI (full stack using php with framwork laravel ), <br/>
-- 💬 Ask me about my experience with php, laravel, mySQl anything related to web development and laravel technologies. <br/>
-- 📧 Reach me anytime: radyosama200@gmail.com <br/><br/><br/>
+🏢 I'm a Computer Science graduate from Modern Academy.
+👨‍💻 Passionate about backend development and continuously learning new technologies.
+👨‍💻 Trained at ITI in full-stack development, specializing in PHP, Laravel, MySQL, HTML, CSS, and JavaScript.
+🏆 Earned a diploma in Backend Development (PHP & Laravel) from Route IT Training Center, focusing on creating scalable and efficient applications.
+💻 Developed notable projects, including a distinguished Learning Management System (LMS) and an e-commerce platform.
+🔧 Skilled in advanced Laravel features like Eloquent ORM, middleware, authentication, and authorization.
+💬 Ask me about PHP, Laravel, MySQL, and anything related to web development and backend technologies.
+📧 Reach me anytime: radyosama200@gmail.com
+🐙 Explore my work on GitHub: GitHub Profile
 
 ### Connect with me :
 <p>
