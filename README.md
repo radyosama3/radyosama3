@@ -47,8 +47,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
-![wordpress](https://img.shields.io/badge/-wordpress-05122A?style=flat&logo=wordpress)&nbsp;
-
 <br/>
 <hr/>
 <br/>
