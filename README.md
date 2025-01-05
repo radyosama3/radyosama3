@@ -22,7 +22,6 @@
 🔧 Skilled in advanced Laravel features like Eloquent ORM, middleware, authentication, and authorization.<br>
 💬 Ask me about PHP, Laravel, MySQL, and anything related to web development and backend technologies.<br>
 📧 Reach me anytime: radyosama200@gmail.com<br>
-🐙 Explore my work on GitHub: GitHub Profile<br>
 
 ### Connect with me :
 <p>
